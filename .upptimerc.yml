@@ -6,16 +6,8 @@ assignees:
 
 # Endpoints to monitor
 sites:
-  - name: TuBot Panel
-    url: https://panel.tubot.lat
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-      - 307
-      - 308
-  - name: TuBot API
-    url: https://api.tubot.lat
+  - name: TuBot Main Site
+    url: https://tubot.lat
 
 # Status website settings
 status-website:
