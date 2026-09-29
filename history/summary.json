@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.tubot.lat.ico",
     "slug": "tu-bot-panel",
     "status": "down",
-    "uptime": "40.44%",
-    "uptimeDay": "40.44%",
-    "uptimeWeek": "40.44%",
-    "uptimeMonth": "40.44%",
-    "uptimeYear": "40.44%",
+    "uptime": "36.05%",
+    "uptimeDay": "36.05%",
+    "uptimeWeek": "36.05%",
+    "uptimeMonth": "36.05%",
+    "uptimeYear": "36.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-29": 0
+      "2026-09-29": 1
     }
   },
   {
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tubot.lat.ico",
     "slug": "tu-bot-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "70.45%",
+    "uptimeDay": "70.45%",
+    "uptimeWeek": "70.45%",
+    "uptimeMonth": "70.45%",
+    "uptimeYear": "70.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-29": 0
+    }
   }
 ]
