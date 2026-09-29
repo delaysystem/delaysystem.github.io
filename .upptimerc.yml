@@ -8,6 +8,12 @@ assignees:
 sites:
   - name: TuBot Panel
     url: https://panel.tubot.lat
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
   - name: TuBot API
     url: https://api.tubot.lat
 
