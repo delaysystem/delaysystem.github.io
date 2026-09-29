@@ -1,42 +1,20 @@
 [
   {
-    "name": "TuBot Panel",
-    "url": "https://panel.tubot.lat",
-    "icon": "https://icons.duckduckgo.com/ip3/panel.tubot.lat.ico",
-    "slug": "tu-bot-panel",
-    "status": "down",
-    "uptime": "5.00%",
-    "uptimeDay": "5.00%",
-    "uptimeWeek": "5.00%",
-    "uptimeMonth": "5.00%",
-    "uptimeYear": "5.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-29": 6
-    }
-  },
-  {
-    "name": "TuBot API",
-    "url": "https://api.tubot.lat",
-    "icon": "https://icons.duckduckgo.com/ip3/api.tubot.lat.ico",
-    "slug": "tu-bot-api",
-    "status": "down",
-    "uptime": "6.28%",
-    "uptimeDay": "6.28%",
-    "uptimeWeek": "6.28%",
-    "uptimeMonth": "6.28%",
-    "uptimeYear": "6.28%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-29": 5
-    }
+    "name": "TuBot Main Site",
+    "url": "https://tubot.lat",
+    "icon": "https://icons.duckduckgo.com/ip3/tubot.lat.ico",
+    "slug": "tu-bot-main-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
+    "dailyMinutesDown": {}
   }
 ]
