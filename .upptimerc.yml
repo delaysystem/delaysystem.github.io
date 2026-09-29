@@ -17,11 +17,9 @@ status-website:
   # Use custom domain if you have one, or set baseUrl if using github.io
   cname: status.tubot.lat
   theme: dark
-
-navbar:
+  navbar:
     - title: "Home"
       href: "https://tubot.lat"
-
   # Subheading text displayed directly below the header
   introTitle: "Real-time System Performance"
   introMessage: "Welcome to our live service status page. Current and historical uptime telemetry is tracked below."
