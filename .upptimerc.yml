@@ -10,6 +10,8 @@ sites:
     url: https://tubot.lat
   - name: TuBot Panel
     url: https://panel.tubot.lat
+  - name: TuBot AI System
+    url: https://ai.tubot.lat/health
 
 # Status website settings
 status-website:
